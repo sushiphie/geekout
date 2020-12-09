@@ -2,7 +2,7 @@ function Navbar() {
   return (
     <section className="nav">
       <nav className="container">
-        <span>GeekOut</span>
+        <span>GeekOut - Xiang</span>
       </nav>
     </section>
   );

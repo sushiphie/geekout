@@ -81,3 +81,8 @@ section .container {
   background: #f9f9f9;
   color: #3d4c60;
 }
+
+.mast {
+    background: #0366fc;
+    padding-left: 16px;
+}
